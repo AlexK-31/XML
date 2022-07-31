@@ -1,0 +1,10 @@
+<?xml version="1.0" enconding="UTF-8" ?>
+<person>
+	<surname>Kanoda</surname>
+	<name>Alexander</name>
+	<patronymic>Sergeevich</patronymic>
+	<age>31</age>
+	<pets>1</pets>
+	<salary>300</salary>
+</person>
+
